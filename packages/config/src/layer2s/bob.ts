@@ -52,7 +52,7 @@ export const bob: Layer2 = opStackL2({
       name: 'BOB Mainnet Launch',
       link: 'https://base.mirror.xyz/hwNwqXHVoLlO8s4DZppog4DfGvM34tigaDjOWuEJQfY',
       date: '2023-07-13T00:00:00.00Z',
-      description: 'BOB is now live on mainnet.',
+      description: 'BOB is live on mainnet.',
     },
   ],
   nonTemplateEscrows: [
