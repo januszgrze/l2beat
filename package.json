@@ -4,7 +4,7 @@
   "license": "MIT",
   "engines": {
     "node": "^18.20.2",
-    "yarn": ">=1.22.0 <2"
+    "yarn": ">=1.22.22 <2"
   },
   "workspaces": {
     "packages": [
